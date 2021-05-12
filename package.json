@@ -29,7 +29,7 @@
     "@vue/cli-plugin-vuex": "~4.2.0",
     "@vue/cli-service": "~4.2.0",
     "babel-plugin-component": "^1.1.1",
-    "swiper": "^5.3.6",
+    "swiper": "^6.5.1",
     "vue-infinite-scroll": "^2.0.2",
     "vue-template-compiler": "^2.6.11"
   },
